@@ -2,6 +2,9 @@
 *.chatgpt.md
 *.chatlog.txt
 *.claude.md
+claude.md
+CLAUDE.md
+.claude/
 *.llm-output.*
 chatgpt_logs/
 claude_sessions/
