@@ -1,0 +1,67 @@
+# Ignore ChatGPT or Claude artifacts
+*.chatgpt.md
+*.chatlog.txt
+*.claude.md
+*.llm-output.*
+chatgpt_logs/
+claude_sessions/
+llm_drafts/
+logs/
+transcripts/
+
+# Ignore raw AI-generated drafts or intermediates
+*.temp.md
+*.partial.md
+.idea/
+.history/
+drafts/
+
+# Jupyter/IPython/Python
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*.ipynb_checkpoints/
+*.ipynb_out.json
+*.DS_Store
+
+# VSCode, PyCharm, or JetBrains
+.vscode/
+.idea/
+*.swp
+
+# Datasets (keep the folder but not contents)
+datasets/*
+!datasets/.gitkeep
+
+# Notebooks outputs (optional)
+**/*.nbconvert.ipynb
+**/*-checkpoint.ipynb
+*.out.ipynb
+
+# OS and user artifacts
+*.bak
+*.tmp
+*.log
+*.orig
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# Ignore large binary artifacts
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.rar
+*.pdf
+*.png
+*.jpg
+*.webp
+*.mp4
+*.mp3
+*.wav
+
+# Build/compiled
+build/
+dist/
+*.egg-info/
