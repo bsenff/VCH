@@ -1,4 +1,4 @@
-# VCH-002: Redshift Decomposition Model
+# VCH-001: Redshift Decomposition Model
 
 ## 🧠 Hypothesis
 Cosmological redshift contains components beyond metric expansion—specifically, contributions from gravitational time differentials and potential light degradation effects ("tired light"). These may explain discrepancies in distance estimates and contribute to the Hubble tension.
@@ -58,7 +58,7 @@ Datasets:
 ## 📝 Notes
 - Must isolate from gravitational lensing and peculiar velocities
 - Redshift decomposition is not proposed as an alternative to expansion, but as a **complementary component**
-- Can inform or constrain timescape cosmology and VCH-001
+- Can inform or constrain timescape cosmology and VCH-002
 
 ---
 

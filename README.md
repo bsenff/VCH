@@ -39,7 +39,7 @@ We welcome observations, counterexamples, refinements, and hypothesis proposals.
 To contribute:
 
 1. Fork the repo or open an issue
-2. Draft or expand a module using the [template](docs/VCH_Template.md)
+2. Draft or expand a module using the [template](templates/vch_template.md)
 3. Submit a pull request for review
 4. Add yourself to the CONTRIBUTORS.md file
 

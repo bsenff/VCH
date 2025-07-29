@@ -8,18 +8,18 @@ Welcome to the documentation hub for the **Voidtime Chronoverse Hypothesis (VCH)
 Each module is a standalone, testable hypothesis exploring one aspect of large-scale cosmological structure, redshift mechanics, or potential simulation artifacts.
 
 ### Active Modules
-- [VCH-001: Void Chronometer Hypothesis](./VCH-001%20Void%20Chronometer%20Hypothesis.md)
-- [VCH-002: Redshift Decomposition Model](./VCH-002%20Redshift%20Decomposition%20Model.md)
-- [VCH-003: CMB Void Entropy Signature](./VCH-003%20CMB%20Void%20Entropy%20Signature.md)
-- [VCH-004: High-z Galaxy Chronology Conflict](./VCH-004%20High-z%20Galaxy%20Chronology%20Conflict.md)
-- [VCH-005: Sky Pattern Artifact Analysis](./VCH-005%20Sky%20Pattern%20Artifact%20Analysis.md)
+- [VCH-001: Redshift Decomposition Model](./vch_001_redshift_decomposition_model.md)
+- [VCH-002: Void Chronometer Hypothesis](./vch_002_void_chronometer_hypothesis.md)
+- [VCH-003: High-z Galaxy Chronology Conflict](./vch_003_high_z_galaxy_chronology_conflict.md)
+- [VCH-004: CMB Void Entropy Signature](./vch_004_cmb_void_entropy_signature.md)
+- [VCH-005: Sky Pattern Artifact Analysis](./vch_005_sky_pattern_artifact_analysis.md)
 
-📑 See the [Module Index](./VCH%20Module%20Index.md) for summaries of all modules.
+📑 See the [Module Index](./vch_module_index.md) for summaries of all modules.
 
 ---
 
 ## ✍️ Contribution Materials
-- [VCH Template](./VCH%20Template.md) — Template for drafting new hypothesis modules
+- [VCH Template](../templates/vch_template.md) — Template for drafting new hypothesis modules
 - [CONTRIBUTING.md](../CONTRIBUTING.md) — Contribution process and code/documentation licensing
 - [CONTRIBUTORS.md](../CONTRIBUTORS.md) — List of project participants and credited contributors
 - [LICENSE-DOCS.md](../LICENSE-DOCS.md) — Creative Commons license for written material

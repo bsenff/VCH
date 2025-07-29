@@ -1,4 +1,4 @@
-# VCH-001: Void Chronometer Hypothesis
+# VCH-002: Void Chronometer Hypothesis
 
 ## 🧠 Hypothesis
 Galaxies within large-scale cosmic voids exhibit systematically older stellar population ages than galaxies in denser regions at the same redshift, due to faster local time progression caused by reduced gravitational potential.
@@ -60,7 +60,7 @@ Datasets:
 ## 📝 Notes
 - Requires care in accounting for mass, morphology, and dust attenuation
 - Statistical signal may be small and require large sample sizes
-- This module provides potential support for VCH central time flow differential concept
+- This module provides potential support for VCH central time flow differential concept established in VCH-001
 
 ---
 

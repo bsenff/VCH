@@ -1,4 +1,4 @@
-# VCH-004: High-z Galaxy Chronology Conflict
+# VCH-003: High-z Galaxy Chronology Conflict
 
 ## 🧠 Hypothesis
 The presence of massive, evolved galaxies at redshifts z ≥ 13 can be explained by **differential temporal evolution** in void-based or underdense regions, where local time flows faster than in denser cosmological environments.
@@ -10,7 +10,7 @@ Recent JWST discoveries (e.g., JADES-GS-z13-0) reveal:
 - Galaxies with unexpectedly high mass and evolved morphology within 300–400 Myr of the Big Bang
 - Conflict with ΛCDM structure formation timescales
 
-This hypothesis connects with VCH-001 and suggests that these galaxies formed in **regions experiencing faster local time**, explaining early maturation without rewriting structure formation laws.
+This hypothesis connects with VCH-002 and suggests that these galaxies formed in **regions experiencing faster local time**, explaining early maturation without rewriting structure formation laws.
 
 ---
 
@@ -59,7 +59,7 @@ Datasets:
 
 ## 📝 Notes
 - This module supports the idea that **clock rate bias**, not exotic matter or inflation modifications, explains z > 13 galaxy maturity
-- May overlap with VCH-001 (void aging) and VCH-002 (redshift reinterpretation)
+- May overlap with VCH-002 (void aging) and VCH-001 (redshift reinterpretation)
 
 ---
 

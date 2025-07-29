@@ -1,4 +1,4 @@
-# VCH-003: CMB Void Entropy Signature
+# VCH-004: CMB Void Entropy Signature
 
 ## 🧠 Hypothesis
 Large-scale cosmic voids display lower-than-expected entropy and temperature variation in the CMB, potentially due to long-term heat extraction, reduced photon scattering, or artifacts from simulated entropy optimization.
@@ -56,7 +56,7 @@ Datasets:
 
 ## 📝 Notes
 - Void size threshold may affect signal detectability
-- Hypothesis overlaps with VCH-005 (sky structure analysis)
+- Hypothesis overlaps with VCH-005 (sky structure analysis) and builds on VCH-002 (void time effects)
 - If confirmed, may also support simulation artifact or energy optimization theory
 
 ---

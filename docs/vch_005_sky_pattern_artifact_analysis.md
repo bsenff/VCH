@@ -58,7 +58,7 @@ These features may reflect:
 ---
 
 ## 📝 Notes
-- May overlap with VCH-003 (CMB entropy in voids)
+- May overlap with VCH-004 (CMB entropy in voids)
 - A positive result could support both simulation hypothesis and temporal granularity assumptions
 - Requires strict statistical handling to avoid confirmation bias
 
