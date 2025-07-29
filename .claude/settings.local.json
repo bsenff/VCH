@@ -1,7 +1,21 @@
 {
   "permissions": {
     "allow": [
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(ls:*)",
+      "WebFetch(domain:pantheonplussh0es.github.io)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:www.cosmicvoids.net)",
+      "WebFetch(domain:bitbucket.org)",
+      "Bash(tree:*)",
+      "Bash(git clone:*)",
+      "Bash(wget:*)",
+      "Bash(python:*)",
+      "WebFetch(domain:cdsarc.cds.unistra.fr)",
+      "Bash(grep:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": []
   }
