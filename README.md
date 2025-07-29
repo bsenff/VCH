@@ -49,7 +49,7 @@ See `docs/CONTRIBUTING.md` for details.
 
 ## 🌐 Contact
 
-You can reach the maintainer via GitHub issues or email (TBD). Collaboration with cosmologists, data scientists, and theorists is encouraged.
+You can reach the maintainer via GitHub issues or email (brad+vch@senff.net). Collaboration with cosmologists, data scientists, and theorists is encouraged.
 
 ---
 
