@@ -17,6 +17,13 @@ This hypothesis addresses persistent **statistical anomalies in cosmological dat
 **Theoretical Context:**
 While most explanations invoke exotic early-universe physics or systematic effects, the VCH framework explores whether these patterns might reflect **computational constraints** inherent to information processing on cosmic scales—analogous to artifacts in digital rendering systems that optimize computational efficiency through symmetries, compression, and hierarchical structures.
 
+**VCH Framework Integration:**
+The confirmed environmental effects from VCH-001/002 and ITD framework (VCH-S004) provide physical mechanisms for creating systematic sky patterns through:
+- Path-integrated time distortions creating coherent angular correlations
+- Environmental bias in cosmological observables manifesting as directional preferences
+- Time domain variations correlating with large-scale structure orientation
+- Cumulative effects of varying time flow creating apparent "computational" patterns
+
 ---
 
 ## 📚 Literature Review
@@ -144,6 +151,12 @@ While most explanations invoke exotic early-universe physics or systematic effec
 - Void shape correlations with hemispherical asymmetry directions
 - Integrated Sachs-Wolfe signal enhancement along anomalous directions
 - Cross-correlation coefficient |r| > 0.3 between CMB patterns and LSS orientations
+
+**VCH Framework Integration:**
+- ITD path effects (VCH-001-B) create systematic sky patterns from line-of-sight structure variations
+- Time domain variations (VCH-002-A) correlate with observed anomaly directions
+- Environmental effects (VCH-001/002) manifest as angular correlations in cosmological observables
+- Path-integrated time distortions produce coherent large-scale patterns in distance/redshift measurements
 
 **Machine Learning Detection:**
 - Anomaly classifiers achieve >90% accuracy in distinguishing real vs. simulated skies

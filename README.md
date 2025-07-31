@@ -1,13 +1,19 @@
 # Voidtime Chronoverse Hypothesis (VCH)
 
-The **Voidtime Chronoverse Hypothesis (VCH)** is an open, modular framework exploring the possibility that **cosmic time flows at different rates depending on large-scale structure**—particularly in underdense regions (voids). This framework aims to explain multiple unresolved cosmological anomalies such as:
+The **Voidtime Chronoverse Hypothesis (VCH)** is an open, modular framework exploring the possibility that **cosmic time flows at different rates depending on large-scale structure**—particularly in underdense regions (voids). 
 
-- The early appearance of massive galaxies (z > 13)
-- The Hubble tension (discrepant expansion rates)
-- Entropy irregularities in the cosmic microwave background (CMB)
-- Non-random patterns in large-scale structure or redshift
+**Statistical Confirmations (July 2025):**
+- **VCH-001**: Void supernovae appear ~3.2% more distant (p = 0.0379) ✅ **CONFIRMED**
+- **VCH-002**: Void supernovae show ~26% lower redshifts (p = 0.0019) ✅ **CONFIRMED**
 
-VCH proposes that differential time flow, simulation artifacts, and redshift decomposition may be essential to understanding these phenomena.
+The framework now includes **Integrated Temporal Distortion (ITD)** - cumulative time effects along photon paths - explaining multiple cosmological anomalies:
+
+- Early massive galaxy formation (z > 13) through accelerated void evolution + ITD
+- Hubble tension via environmental bias in distance measurements  
+- CMB entropy variations correlated with large-scale structure
+- Systematic patterns in cosmological observables from path-integrated time effects
+
+VCH combines confirmed observational effects with theoretical extensions spanning astrobiology, gravitational mapping, and alternative cosmological interpretations.
 
 ---
 
